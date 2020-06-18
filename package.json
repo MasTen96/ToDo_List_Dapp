@@ -1,0 +1,25 @@
+{
+    "name": "todolist",
+    "version": "1.0.0",
+    "description": "A Simple blockchain ToDo List",
+    "main": "truffle-config.js",
+    "directories": {
+        "test": "test"
+    },
+    "scripts": {
+        "dev": "lite-server",
+        "test": "echo \"Error: no test specified\" && sexit 1"
+    },
+    "author": "MASKOUR_ELHOUCINE",
+    "license": "ISC",
+    "devDependencies": {
+        "bootstrap": "^4.4.1",
+        "chai": "^4.2.0",
+        "chai-as-promised": "^7.1.1",
+        "chai-bignumber": "^3.0.0",
+        "lite-server": "^2.5.4",
+        "nodemon": "^2.0.3",
+        "truffle": "5.0.2",
+        "truffle-contract": "3.0.6"
+    }
+}
